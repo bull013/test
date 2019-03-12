@@ -9,7 +9,7 @@
 
 //let arr = ["plum.png","orange.jpg","apple.bmp"];
 
-//console.log(arr[1]);
+console.log(arr[1]);
 /*let a = confirm ("Hello");
 console.log(a);*/
 let a = true,
