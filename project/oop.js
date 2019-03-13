@@ -8,7 +8,7 @@ let john = {
     health:100
 };
 
-//john.__proto__ = solider;
+john.__proto__ = solider; //делаем объект solider прототипом john
 
 console.log(john);
 console.log(john.armor);
